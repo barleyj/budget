@@ -1,0 +1,15 @@
+C 1h = $15
+C 1m = $0.25
+
+2016/11/03 * Checking balance
+  Assets:Checking                   $1,000.00
+  Equity:Opening Balances
+
+2016/11/03 * Organic Co-op
+  Expenses:Food:Groceries             $ 37.50
+  Expenses:Food:FastFood              $ 12.50
+  Expenses:Food:Dining                $ 62.50
+  Expenses:Food:Groceries             $ 37.50
+  Expenses:Food:Groceries             $ 37.50
+  Expenses:Food:Groceries             $ 37.50
+  Assets:Checking                   $ -225.00
